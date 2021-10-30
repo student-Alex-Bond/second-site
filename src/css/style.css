@@ -243,4 +243,25 @@ background: url('../css/img/second_bg.png') center center/cover no-repeat;
     width: 204px;
 }
 
+.finish .finish_wrapper .finish_item .finish_round{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    background: #B4E2FF;
+    width: 115px;
+    height: 115px;
+    border-radius: 100%;
+
+}
+.finish .finish_wrapper .finish_item .finish_descr{
+    margin-top: 25px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    color: #EFEFEF;
+}
     
