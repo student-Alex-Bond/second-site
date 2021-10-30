@@ -318,3 +318,27 @@ padding: 88px 0 ;
     padding: 57px 0 69px 0;
     text-align: center;
 }
+.footer a, p {
+
+    display: inline-block;
+  margin: 0 auto;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 21px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #888888;
+}
+.footer p{
+    display: block;
+    margin: 0 auto;
+    text-decoration-line: none;
+}
+.footer .align{
+    height: 12px;
+    display: inline-block;
+    border-left: 1px solid #888888 ;
+}
