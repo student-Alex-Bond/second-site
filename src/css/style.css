@@ -159,4 +159,16 @@ color: #fff;
 
 
 }
+.waiting .waiting_wrapper{
+margin-top: 46px;
+display: flex;
+justify-content: space-between;
+}
+.waiting .waiting_wrapper .waiting_item{
+
+ 
+    width: 339px;
+    text-align: center;
+ 
+}
     
