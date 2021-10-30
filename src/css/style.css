@@ -305,4 +305,16 @@ padding: 88px 0 ;
     text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.22);
     outline: none;
 }
-    
+    .first_webinar .first_webinar_img{
+    display: block;
+    margin: 0 auto;
+    margin-top: 86px;
+
+} 
+
+.footer{
+    min-height: 169px;
+    background-color:black;
+    padding: 57px 0 69px 0;
+    text-align: center;
+}
