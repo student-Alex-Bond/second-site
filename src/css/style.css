@@ -10,5 +10,11 @@
         margin: 0 auto;
          
 }
+
+.promo {
+    height: 800px;
+    background: url('../css/img/main_bg.jpg') center center/cover no-repeat;
+    padding: 38px 0 61px 0; 
+}
     
     
