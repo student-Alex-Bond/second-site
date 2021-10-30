@@ -201,4 +201,20 @@ color: #4A4A4A;
     color: #299CBD;
     margin-left: 391px;
 }
+
+.optimization .container .optimization_text{
+    margin-top: 25px;
+    margin-left: 391px;
+    font-family: 'Roboto - Light';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 27px;
+    color: #4A4A4A;
+}
+
+.optimization .container .optimization_text span{
+    font-family: 'Roboto - Bold';
+    font-weight: 700;
+}
     
