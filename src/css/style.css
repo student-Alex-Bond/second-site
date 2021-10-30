@@ -264,4 +264,15 @@ background: url('../css/img/second_bg.png') center center/cover no-repeat;
     line-height: 20px;
     color: #EFEFEF;
 }
+
+.surprise{
+    background-color: #efefef;
+min-height: 631px;
+padding: 88px 0 ; 
+}
+
+.surprise .surprice_img{
+    display: block;
+    margin: 0 auto;
+}
     
