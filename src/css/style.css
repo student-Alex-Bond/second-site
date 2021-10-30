@@ -133,4 +133,18 @@ h2.title {
     text-transform: uppercase;
     color: #252525; 
 }
+.finish .finish_header{
+color: #fff;
+
+}
+.waiting .waiting_devider, .finish .finish_devider{
+    margin: 0 auto;
+    margin-top: 18px;
+    display: block;
+    width: 217px;
+    height: 4px;
+    text-align: center;
+    background: #F9BF3B;
+    
+}
     
