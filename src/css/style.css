@@ -70,4 +70,9 @@ h2.title {
     text-align: center;
     color: #FFFFFF;
 }
+.promo .promo_text span {
+    color: #F9BF3B;
+    font-weight: 700;
+    font-family: "Roboto - Bold";
+}
     
