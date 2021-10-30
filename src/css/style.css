@@ -217,4 +217,18 @@ color: #4A4A4A;
     font-family: 'Roboto - Bold';
     font-weight: 700;
 }
+
+.optimization .container .optimization_img{
+position: absolute;
+top: -54px;
+left: -240px;
+z-index: -1;
+}
+
+.finish{
+min-height: 447px;
+padding: 86px 0 79px 0;
+background: url('../css/img/second_bg.png') center center/cover no-repeat;
+}
+
     
