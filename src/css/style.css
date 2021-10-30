@@ -116,4 +116,21 @@ h2.title {
     margin: 0 auto;
 
 }
+.waiting{
+    min-height: 607px;
+    background-color: #EFEFEF;
+    padding: 88px 0 75px 0;
+}
+
+.waiting .waiting_header, .finish .finish_header{
+   
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #252525; 
+}
     
