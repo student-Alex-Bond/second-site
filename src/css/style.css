@@ -275,4 +275,14 @@ padding: 88px 0 ;
     display: block;
     margin: 0 auto;
 }
+.surprise .surprise_text{
+    margin-top: 45px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 43px;
+    text-align: center;
+    color: #252525;
+}
     
