@@ -147,4 +147,16 @@ color: #fff;
     background: #F9BF3B;
     
 }
+.waiting .waiting_subheader {
+    margin-top: 18px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 20px;
+    text-align: center;
+    color: #4A4A4A;
+
+
+}
     
